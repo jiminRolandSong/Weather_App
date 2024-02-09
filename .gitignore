@@ -1,0 +1,17 @@
+# course config files
+*.yaml
+
+# gradle
+.gradle/
+build
+
+
+# idea config
+.idea
+
+# old stages
+/Weather App/*
+!/Weather App/task/
+/Weather App/task/*
+!/Weather App/task/web
+!/Weather App/task/instance
